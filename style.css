@@ -23,6 +23,8 @@ body{
     display: grid;
     grid-template-rows: auto;
     grid-template-columns: auto;
+    justify-items: stretch;
+    align-items: stretch;
 }
 
 .words{
