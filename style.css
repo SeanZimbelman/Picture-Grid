@@ -28,31 +28,27 @@ body{
 }
 
 .words{
-    padding-top: 100px;
-    text-align: right;
-    color: #985454;
-    grid-column: 4/6;
-    grid-row: 8/9;
+    background-color: #985454;
 }
 
 .logo{
-    grid-column: 1/5;
-    grid-row: 1/4;
-}
-
-.facebook{
-    grid-column: 5/6;
+    grid-column: 1/6;
     grid-row: 1/2;
 }
 
-.twitter{
-    grid-column: 5/6;
+.facebook{
+    grid-column: 1/2;
     grid-row: 2/3;
+}
+
+.twitter{
+    grid-column: 1/2;
+    grid-row: 3/4;
 }
 
 .mask-1{
     grid-column: 5/6;
-    grid-row: 3/4;
+    grid-row: 2/4;
 }
 
 .birthday{
@@ -131,11 +127,11 @@ body{
 }
 
 .mask-2{
-    grid-column: 1/2;
-    grid-row: 8/9;
+    grid-column: 2/3;
+    grid-row: 2/4;
 }
 
 .mask-3{
-    grid-column: 2/4;
-    grid-row: 8/9;
+    grid-column: 3/5;
+    grid-row: 2/4;
 }
